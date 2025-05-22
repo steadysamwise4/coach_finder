@@ -1,1 +1,5 @@
-<template><p>...</p></template>
+<template>
+  <p>Details For Coach</p>
+  <router-view></router-view>
+  <router-link to="/coaches/c1/contact">Contact</router-link>
+</template>
